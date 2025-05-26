@@ -1,0 +1,107 @@
+[
+  {
+    "from": {
+      "type": "user",
+      "username": "juan__b49a57",
+      "displayName": "juan"
+    },
+    "to": {
+      "type": "user",
+      "username": "test__a94a8f",
+      "displayName": "test__a94a8f"
+    },
+    "type": "TEXT",
+    "content": "hola",
+    "timestamp": "2025-05-23T21:18:35.866249"
+  },
+  {
+    "from": {
+      "type": "user",
+      "username": "test__a94a8f",
+      "displayName": "test"
+    },
+    "to": {
+      "type": "user",
+      "username": "juan__b49a57",
+      "displayName": "juan__b49a57"
+    },
+    "type": "TEXT",
+    "content": "hola",
+    "timestamp": "2025-05-23T21:19:38.763444"
+  },
+  {
+    "from": {
+      "type": "user",
+      "username": "juan__b49a57",
+      "displayName": "juan"
+    },
+    "to": {
+      "type": "user",
+      "username": "test__a94a8f",
+      "displayName": "test__a94a8f"
+    },
+    "type": "TEXT",
+    "content": "como estas",
+    "timestamp": "2025-05-23T21:19:42.314362"
+  },
+  {
+    "from": {
+      "type": "user",
+      "username": "juan__b49a57",
+      "displayName": "juan"
+    },
+    "to": {
+      "type": "user",
+      "username": "test__a94a8f",
+      "displayName": "test__a94a8f"
+    },
+    "type": "TEXT",
+    "content": "d",
+    "timestamp": "2025-05-23T21:21:52.29995"
+  },
+  {
+    "from": {
+      "type": "user",
+      "username": "test__a94a8f",
+      "displayName": "test"
+    },
+    "to": {
+      "type": "user",
+      "username": "juan__b49a57",
+      "displayName": "juan__b49a57"
+    },
+    "type": "TEXT",
+    "content": "dd",
+    "timestamp": "2025-05-23T21:21:56.032376"
+  },
+  {
+    "from": {
+      "type": "user",
+      "username": "test__a94a8f",
+      "displayName": "test"
+    },
+    "to": {
+      "type": "user",
+      "username": "juan__b49a57",
+      "displayName": "juan__b49a57"
+    },
+    "type": "TEXT",
+    "content": "fff",
+    "timestamp": "2025-05-23T21:25:16.733593"
+  },
+  {
+    "from": {
+      "type": "user",
+      "username": "juan__b49a57",
+      "displayName": "juan"
+    },
+    "to": {
+      "type": "user",
+      "username": "test__a94a8f",
+      "displayName": "test__a94a8f"
+    },
+    "type": "TEXT",
+    "content": "ggg",
+    "timestamp": "2025-05-23T21:25:19.881892"
+  }
+]

@@ -1,0 +1,64 @@
+.root {
+    -fx-font-family: 'Segoe UI', 'Arial', sans-serif;
+    font-family: 'Segoe UI', 'Arial', sans-serif;
+    -fx-background-color: #f4f6fb;
+    background-color: #f4f6fb;
+}
+
+.text-area {
+    -fx-control-inner-background: #ffffff;
+    background-color: #ffffff;
+    -fx-font-size: 14px;
+    font-size: 14px;
+    -fx-background-radius: 8px;
+    border-radius: 8px;
+    -fx-border-color: #d1dce8;
+    border-color: #d1dce8;
+}
+
+.text-field {
+    -fx-background-radius: 8px;
+    border-radius: 8px;
+    -fx-border-color: #d1dce8;
+    border-color: #d1dce8;
+    -fx-font-size: 14px;
+    font-size: 14px;
+}
+
+.button {
+    -fx-background-color: #4f8cff;
+    background-color: #4f8cff;
+    -fx-text-fill: #fff;
+    color: #fff;
+    -fx-font-size: 14px;
+    font-size: 14px;
+    -fx-font-weight: bold;
+    font-weight: bold;
+    -fx-effect: dropshadow(three-pass-box, #aac7ff, 2, 0, 0, 1);
+}
+
+.button:hover {
+    -fx-background-color: #357ae8;
+    background-color: #357ae8;
+}
+
+#loginBox {
+    -fx-background-color: #fff;
+    background-color: #fff;
+    -fx-padding: 30px;
+    padding: 30px;
+    -fx-background-radius: 10px;
+    border-radius: 10px;
+    -fx-border-color: #d1dce8;
+    border-color: #d1dce8;
+    -fx-effect: dropshadow(gaussian, #e3e9f4, 10, 0, 0, 2);
+}
+
+#loginTitle {
+    -fx-font-size: 22px;
+    font-size: 22px;
+    -fx-font-weight: bold;
+    font-weight: bold;
+    -fx-text-fill: #4f8cff;
+    color: #4f8cff;
+}
